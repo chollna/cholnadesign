@@ -24,6 +24,7 @@
     <link rel="stylesheet" href="{{ asset('assets/css/plugins.min.css') }}" as="style" onload="this.rel='stylesheet'">
     <link rel="stylesheet" href="{{ asset('assets/css/cards.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/save.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/stickslide.css') }}">
 
     <!-- Open Graph & Twitter Meta -->
     <meta property="og:site_name" content="Zento">

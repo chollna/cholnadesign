@@ -1,3 +1,7 @@
-document.addEventListener("DOMContentLoaded", function() {
-    // Your custom JS code
-});
+import './bootstrap';
+
+import Alpine from 'alpinejs';
+
+window.Alpine = Alpine;
+
+Alpine.start();
